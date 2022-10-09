@@ -3,11 +3,11 @@
 
 ✅ An Android rom Developer 
 
-✅ Like system bottom layer and hardware
+✅ Passionate about Android kernel and recovery
 ### Work on
 🟢 Third-party Android kernel
 
-🟢 Third-Party rec
+🟢 Third-Party recovery
 ### Language
 
 💠C/C++
